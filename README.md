@@ -2,3 +2,4 @@
 ## Developers:
 - Michał Frontczak
 - Franciszek Jurkowski
+- Kasper Kafel
