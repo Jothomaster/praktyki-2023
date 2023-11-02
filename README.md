@@ -1,3 +1,4 @@
 # praktyki-2023
 ## Developers:
-- Michał Frontczak
+    - Michał Frontczak
+    - Franciszek Jurkowski
