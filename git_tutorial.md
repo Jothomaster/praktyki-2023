@@ -7,3 +7,5 @@ Proces robienia i mergowania brancha:
 - git commit -am "Wiadomość"
 - git push origin \<nazwa>
 I założyć pull request
+
+W celu uniknięcia merge conflictów dla plików edytowanych przez kilka osób należy poczekać aż inni zpushują zmiany, zpullować i dopiero potem edytować 
